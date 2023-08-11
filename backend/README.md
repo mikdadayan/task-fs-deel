@@ -2,7 +2,7 @@
 
 A Node.js/Express.js application that serves a REST API for managing profiles,s and jobs.
 
-[🚀 Live Backend]()
+[🚀 Live Backend](https://busy-blue-mussel-cap.cyclic.app/)
 
 ## Table of Contents
 
