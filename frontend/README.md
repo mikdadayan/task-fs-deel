@@ -2,7 +2,7 @@
 
 This frontend application is a very basic React app designed to demonstrate the usage of our backend API. It provides a simple interface to interact with the various endpoints, covering contracts, jobs, balance management, and admin functionalities.
 
-[🚀 Live Demo] ()
+[🚀 Live Demo] https://contracts-board-app.web.app/
 
 ## Overview
 
